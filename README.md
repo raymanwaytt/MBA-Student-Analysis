@@ -35,9 +35,13 @@ admission: Admission status (contains significant missing values)
 
 ## Data Exploration
 The initial exploration of the dataset includes:
+
 -Displaying the first 5 rows of the dataset
+
 -Checking data types and information
+
 -Identifying missing values
+
 -Summary statistics of the dataset
 
 ## Data Cleaning and Feature Engineering
@@ -70,13 +74,18 @@ How does race correlate with GPA?
 How do GMAT scores vary across different work experience ranges?
 
 ## Data Visualization
-The analysis includes various visualizations, such as:
+
+### The analysis includes various visualizations, such as:
 
 Heatmaps for the effect of work experience on GPA
+
 Histograms for GMAT score distribution
+
 Bar plots comparing GPA among different demographics (e.g., gender, international status)
+
 Insights on the distribution of students across various work industries
+
 Example Visualization
 
-Conclusion
+## Conclusion
 The analysis provides insights into the academic performance and demographic factors influencing MBA admissions. It identifies trends in GPA and GMAT scores across different classifications and highlights the importance of work experience and major choice in students' success.

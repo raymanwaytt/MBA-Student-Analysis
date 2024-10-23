@@ -1,0 +1,7 @@
+Here's a requirements.txt file based on the libraries and versions used in this project:
+
+pandas>=1.3.6
+seaborn>=0.11.0
+matplotlib>=3.4.0
+
+pip install -r requirements.txt

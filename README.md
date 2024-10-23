@@ -67,11 +67,10 @@ Dropped the admission column due to over 80% missing values.
 
 Created new classification columns based on GPA and work experience:
 
-GPA Classification:
-
+### GPA Classification:
 Fail, Third Class, Second Class Lower, Second Class Upper, First Class
-Work Experience Classification:
 
+### Work Experience Classification:
 1-3 years, 4-6 years, 7-9 years
 
 ## Data Analysis Questions

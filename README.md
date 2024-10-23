@@ -3,11 +3,17 @@ This project involves analyzing a dataset of MBA students to explore various fac
 
 ## Table of Contents
 Installation
+
 Dataset
+
 Data Exploration
+
 Data Cleaning and Feature Engineering
+
 Data Analysis Questions
+
 Data Visualization
+
 Conclusion
 
 ## Installation
